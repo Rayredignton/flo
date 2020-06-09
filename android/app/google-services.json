@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707512060176",
+    "firebase_url": "https://flo-chat-34fb0.firebaseio.com",
+    "project_id": "flo-chat-34fb0",
+    "storage_bucket": "flo-chat-34fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707512060176:android:2cebf53432bf9bd82f7d95",
+        "android_client_info": {
+          "package_name": "com.example.flo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707512060176-le1f301ovrt8o7a5am2mnfv51k4ie2dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flo",
+            "certificate_hash": "a311eba608b67563b1893059bb4529431f801254"
+          }
+        },
+        {
+          "client_id": "707512060176-25cov237djrsie00vvfpf4sbpouhr2pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5d87uzT2EmNtkR5lZylSNSbvQnje_vrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707512060176-25cov237djrsie00vvfpf4sbpouhr2pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
